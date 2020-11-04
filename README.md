@@ -7,7 +7,6 @@ I built a machine that can predict whether peanut M&Ms actually have peanuts in 
 
 # Below are links to some of the example code and/or libraries that I integrated into my project.
 
-"""
 [Raspberry Pi - Arduino Serial Communication](https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/)
 [Raspberry Pi Camera Capture](https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/)
 [Opencv Pixel Counting](https://stackoverflow.com/questions/45836214/opencv-python-count-pixels)
