@@ -1,5 +1,5 @@
 # PeanutlessMM-Sorter
-![PeantlessMM-Sorter](https://github.com/hamac2003/PeanutlessMM-Sorter/blob/master/cover_smaller.png "cover")
+![PeantlessMM-Sorter](https://github.com/hamac2003/PeanutlessMM-Sorter/blob/main/cover_smaller.png "cover")
 
 I built a machine that can predict whether peanut M&Ms actually have peanuts in them. It does this using a custom 3D scanner and scale in order to calculate the density of these candies. Since chocolate is slightly more dense than peanuts, this allows the machine to predict whether a peanut is actually in the center of each candy.
 
