@@ -1,6 +1,5 @@
 # Author: Harrison McIntyre
 # Last Updated: 11.04.2020
-# Contact: hamac2003@gmail.com
 
 
 
