@@ -1,8 +1,6 @@
 /*
   Author: Harrison McIntyre
   Last Updated: 11.04.2020
-  Contact: hamac2003@gmail.com
-
 
   References / Credits:
   Below are links to some of the example code and/or libraries that I integrated into my project.
